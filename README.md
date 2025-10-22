@@ -7,22 +7,7 @@
 
 📫 **Contato:** [miguelmoura112@gmail.com](mailto:miguelmoura112@gmail.com)
 
----
 
-<div align="center">
-
-### 🧠 Linguagens mais utilizadas
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev&layout=compact&theme=tokyonight" 
-  alt="Linguagens mais usadas no GitHub de Miguel"
-/>
-
-</div>
-
----
-
-<div align="center">
 
 ### 🚀 Tecnologias que tenho estudado
 
